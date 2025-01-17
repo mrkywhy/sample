@@ -1,4 +1,3 @@
-https://mrkywhy.github.io/sample/
 <html>
     <head>
         <title>COMPUTER STORE</title>
