@@ -55,12 +55,18 @@ nav {
     border-radius: 10px;
 }
 
-h1 {
+.promoted {
     text-align: center;
-    color: white;
     font-size: 36px;
     margin-top: 45px;
     margin-bottom: 40px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    background-color: rgb(109, 182, 255);
+    padding: 30px 40px 30px 40px;
+    border-radius: 10px;
 }
 
 .post-text {
