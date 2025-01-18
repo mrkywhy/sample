@@ -55,14 +55,9 @@ nav {
     border-radius: 10px;
 }
 
-h1 {
-    text-align: center;
-    color: white;
-    font-size: 36px;
-   padding: 30px 40px 30px 40px;
-}
  
 .brand{
+    color: white;
     font-weight: bold;
     text-decoration: none;
     display: block;
