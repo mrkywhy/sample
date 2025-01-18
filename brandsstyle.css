@@ -63,11 +63,12 @@ h1 {
     margin-bottom: 40px;
 }
 
-.brand {
+.brand{
     font-size: 30px;
     font-weight: bold;
     color: rgb(0, 0, 0);
     text-decoration: none;
+    text-align: center;
     display: block;
     background-color: rgb(109, 182, 255);
     padding: 30px 40px 30px 40px;
