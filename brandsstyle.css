@@ -59,19 +59,16 @@ h1 {
     text-align: center;
     color: white;
     font-size: 36px;
-    margin-top: 45px;
-    margin-bottom: 40px;
+   padding: 30px 40px 30px 40px;
 }
-
+ 
 .brand{
-    font-size: 30px;
     font-weight: bold;
-    color: rgb(0, 0, 0);
     text-decoration: none;
-    text-align: center;
     display: block;
     background-color: rgb(109, 182, 255);
-    padding: 30px 40px 30px 40px;
+    margin-top: 45px;
+    margin-bottom: 40px;
     border-radius: 10px;
 }
 
