@@ -57,14 +57,15 @@ nav {
 
  
 .brand{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
     color: rgb(255, 255, 255);
     font-weight: bold;
     text-decoration: none;
     display: block;
     background-color: rgb(109, 182, 255);
-    margin-top: 45px;
-    margin-bottom: 40px;
-    padding: 30px 40px 30px 40px;
 }
 
 .post-text {
