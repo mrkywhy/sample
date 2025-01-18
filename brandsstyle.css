@@ -66,6 +66,8 @@ nav {
     text-decoration: none;
     display: block;
     background-color: rgb(109, 182, 255);
+    padding: 30px 40px 30px 40px;
+    border-radius: 10px;
 }
 
 .post-text {
